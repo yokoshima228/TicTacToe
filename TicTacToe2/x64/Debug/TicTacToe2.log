@@ -1,0 +1,4 @@
+﻿  TicTacToe2.cpp
+C:\Users\Flazi\source\repos\TicTacToe2\TicTacToe2\TicTacToe2.cpp(31,7): warning C4101: winner: неиспользованная локальная переменная
+C:\Users\Flazi\source\repos\TicTacToe2\TicTacToe2\TicTacToe2.cpp(111,7): warning C4101: winner: неиспользованная локальная переменная
+  TicTacToe2.vcxproj -> C:\Users\Flazi\source\repos\TicTacToe2\x64\Debug\TicTacToe2.exe

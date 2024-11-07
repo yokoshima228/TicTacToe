@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Flazi\\source\\repos\\TicTacToe2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40565F9E-5D17-4CD2-9CCA-5FE8D32B50F2}|TicTacToe2\\TicTacToe2.vcxproj|C:\\Users\\Flazi\\source\\repos\\TicTacToe2\\TicTacToe2\\TicTacToe2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40565F9E-5D17-4CD2-9CCA-5FE8D32B50F2}|TicTacToe2\\TicTacToe2.vcxproj|solutionrelative:TicTacToe2\\TicTacToe2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicTacToe2.cpp",
+              "DocumentMoniker": "C:\\Users\\Flazi\\source\\repos\\TicTacToe2\\TicTacToe2\\TicTacToe2.cpp",
+              "RelativeDocumentMoniker": "TicTacToe2\\TicTacToe2.cpp",
+              "ToolTip": "C:\\Users\\Flazi\\source\\repos\\TicTacToe2\\TicTacToe2\\TicTacToe2.cpp",
+              "RelativeToolTip": "TicTacToe2\\TicTacToe2.cpp",
+              "ViewState": "AgIAADgBAAAAAAAAAAAYwDkBAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-07T07:49:09.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
